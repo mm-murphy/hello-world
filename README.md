@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Testing my first repository. Trying to figure out how this whole site works.
